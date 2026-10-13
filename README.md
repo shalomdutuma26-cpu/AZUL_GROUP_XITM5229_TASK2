@@ -10,4 +10,4 @@ Centralized static web portal housing official Standard Operating Procedures (SO
 
 ## Live Dashboard Portal Link
 The responsive landing framework is fully compiled and hosted live on the public cloud interface:
-➡️ **Website URL:** https://github.com/shalomdutuma26-cpu/AZUL_GROUP_XITM5229_TASK2
+➡️ **Website URL:** file:///C:/Users/shalo/OneDrive/WILL%20PART%202%20WORK/Index.html#structure-section
